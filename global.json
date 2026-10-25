@@ -4,6 +4,6 @@
     "rollForward": "latestFeature"
   },
   "msbuild-sdks": {
-    "Azure.Functions.Sdk": "1.0.0"
+    "Azure.Functions.Sdk": "1.0.1"
   }
 }
