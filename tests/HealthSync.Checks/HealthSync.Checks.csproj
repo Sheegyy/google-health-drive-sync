@@ -1,0 +1,8 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup><OutputType>Exe</OutputType></PropertyGroup>
+  <ItemGroup>
+    <ProjectReference Include="../../src/HealthSync.Core/HealthSync.Core.csproj" />
+    <ProjectReference Include="../../src/HealthSync.Functions/HealthSync.Functions.csproj" />
+    <ProjectReference Include="../../tools/HealthSync.Tool/HealthSync.Tool.csproj" />
+  </ItemGroup>
+</Project>

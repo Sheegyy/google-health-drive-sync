@@ -1,0 +1,17 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "UseDevelopmentStorage=true",
+    "FUNCTIONS_WORKER_RUNTIME": "dotnet-isolated",
+    "GOOGLE_CLIENT_ID": "generated-by-bootstrap",
+    "GOOGLE_CLIENT_SECRET": "generated-by-bootstrap",
+    "GOOGLE_REFRESH_TOKEN": "generated-by-bootstrap",
+    "DRIVE_FILE_ID": "generated-by-bootstrap",
+    "HEALTH_SYNC_SCHEDULE": "0 0 22 * * *",
+    "HEALTH_TIMEZONE": "Asia/Tokyo",
+    "HEALTH_LOOKBACK_DAYS": "14",
+    "HEALTH_INCLUDE_ALL_DATA": "true",
+    "HEALTH_ARCHIVE_ENABLED": "true",
+    "INCLUDE_HOURLY_HEART_RATE": "true"
+  }
+}

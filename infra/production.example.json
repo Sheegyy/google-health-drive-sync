@@ -1,0 +1,9 @@
+{
+  "subscriptionId": "11111111-1111-4111-8111-111111111111",
+  "tenantId": "22222222-2222-4222-8222-222222222222",
+  "resourceGroup": "healthsync-example",
+  "functionApp": "healthsync-functions-example",
+  "keyVault": "healthsync-vault-example",
+  "storageAccount": "healthsyncexample",
+  "deploymentContainer": "function-packages"
+}
